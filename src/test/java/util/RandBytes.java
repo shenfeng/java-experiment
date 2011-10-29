@@ -1,4 +1,4 @@
-package mongodb;
+package util;
 import java.util.Random;
 
 public class RandBytes {

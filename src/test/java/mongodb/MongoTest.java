@@ -16,6 +16,8 @@ import org.apache.log4j.Logger;
 import org.junit.Before;
 import org.junit.Test;
 
+import util.RandBytes;
+
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
